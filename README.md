@@ -43,15 +43,28 @@ Now you're ready to rumble!
 ## Contributors
 
 <table>
-
 <tr>
-
-<td align="center"><a href="https://mxstbr.com"><img src="https://avatars0.githubusercontent.com/u/7525670?v=4" width="80px;" alt="Max Stoiber"/><br /><sub><b>Max Stoiber</b></sub></a><br /><a href="https://github.com/react-boilerplate/react-boilerplate/commits?author=mxstbr" title="Code">💻</a> <a href="https://github.com/react-boilerplate/react-boilerplate/commits?author=mxstbr" title="Documentation">📖</a> <a href="#ideas-mxstbr" title="Ideas, Planning, & Feedback">🤔</a> <a href="#review-mxstbr" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/react-boilerplate/react-boilerplate/commits?author=mxstbr" title="Tests">⚠️</a></td>
-
-
-<td align="center"><a href="https://julien.engineering/"><img src="https://avatars2.githubusercontent.com/u/8948127?v=4" width="80px;" alt="Julien Benchetrit"/><br /><sub><b>Julien Benchetrit</b></sub></a><br /><a href="https://github.com/react-boilerplate/react-boilerplate/commits?author=julienben" title="Code">💻</a> <a href="#question-julienben" title="Answering Questions">💬</a> <a href="https://github.com/react-boilerplate/react-boilerplate/commits?author=julienben" title="Documentation">📖</a> <a href="#review-julienben" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-julienben" title="Maintenance">🚧</a></td>
-
+  <td align="center">
+    <a href="https://github.com/amchapa">
+      <img src="https://avatars.githubusercontent.com/u/58574314?v=4" width="80px;" alt="Angy Chapa"/>
+      <br />
+      <sub><b>Angy Chapa</b></sub>
+    </a>
+    <br />
+    <a href="https://github.com/amchapa" title="Code">💻</a> 
+    <a href="https://github.com/amchapa" title="Documentation">📖</a> 
+    <a href="https://github.com/amchapa" title="Ideas, Planning, & Feedback">🤔</a> 
+  </td>
+  <td align="center">
+    <a href="https://github.com/dnl-coder">
+      <img src="https://avatars.githubusercontent.com/u/65001610?v=4" width="80px;" alt="Daniel Lingan"/>
+      <br />
+      <sub><b>Daniel Lingan</b></sub>
+    </a>
+    <br />
+    <a href="https://github.com/dnl-coder" title="Code">💻</a> 
+    <a href="https://github.com/dnl-coder" title="Answering Questions">💬</a> 
+    <a href="https://github.com/dnl-coder" title="Documentation">📖</a>
+  </td>
 </tr>
-
-
 </table>
